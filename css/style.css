@@ -68,4 +68,10 @@ body {
 .back-to-home:hover {
     background-color: aquamarine;
 }
+    .footer {
+  height: 20px;
+  margin-top: -10px;
 }
+
+}
+
